@@ -1,0 +1,62 @@
+<Solution>
+  <Folder Name="/00-ubiquitous-language/">
+    <Project Path="00-ubiquitous-language/UbiquitousLanguage.csproj" />
+  </Folder>
+  <Folder Name="/01-anemic-vs-rich-model/">
+    <Project Path="01-anemic-vs-rich-model/AnemicVsRichModel.csproj" />
+  </Folder>
+  <Folder Name="/02-value-object/">
+    <Project Path="02-value-object/ValueObject.csproj" />
+  </Folder>
+  <Folder Name="/03-entity/">
+    <Project Path="03-entity/Entity.csproj" />
+  </Folder>
+  <Folder Name="/04-aggregate/">
+    <Project Path="04-aggregate/Aggregate.csproj" />
+  </Folder>
+  <Folder Name="/05-repository/">
+    <Project Path="05-repository/Repository.csproj" />
+  </Folder>
+  <Folder Name="/06-domain-service/">
+    <Project Path="06-domain-service/DomainService.csproj" />
+  </Folder>
+  <Folder Name="/07-factory/">
+    <Project Path="07-factory/Factory.csproj" />
+  </Folder>
+  <Folder Name="/08-domain-events/">
+    <Project Path="08-domain-events/DomainEvents.csproj" />
+  </Folder>
+  <Folder Name="/09-specification/">
+    <Project Path="09-specification/Specification.csproj" />
+  </Folder>
+  <Folder Name="/10-bounded-context/">
+    <Project Path="10-bounded-context/BoundedContext.csproj" />
+  </Folder>
+  <Folder Name="/11-context-map/">
+    <Project Path="11-context-map/ContextMap.csproj" />
+  </Folder>
+  <Folder Name="/12-anti-corruption-layer/">
+    <Project Path="12-anti-corruption-layer/AntiCorruptionLayer.csproj" />
+  </Folder>
+  <Folder Name="/13-subdomains/">
+    <Project Path="13-subdomains/Subdomains.csproj" />
+  </Folder>
+  <Folder Name="/14-integration-events/">
+    <Project Path="14-integration-events/IntegrationEvents.csproj" />
+  </Folder>
+  <Folder Name="/15-outbox-pattern/">
+    <Project Path="15-outbox-pattern/OutboxPattern.csproj" />
+  </Folder>
+  <Folder Name="/16-cqrs/">
+    <Project Path="16-cqrs/Cqrs.csproj" />
+  </Folder>
+  <Folder Name="/17-event-sourcing/">
+    <Project Path="17-event-sourcing/EventSourcing.csproj" />
+  </Folder>
+  <Folder Name="/18-saga/">
+    <Project Path="18-saga/Saga.csproj" />
+  </Folder>
+  <Folder Name="/19-capstone-shop/">
+    <Project Path="19-capstone-shop/CapstoneShop.csproj" />
+  </Folder>
+</Solution>
